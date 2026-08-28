@@ -1,0 +1,98 @@
+export const indiaDestinations =[
+    {
+        id:1,
+        name:'Kerala',
+        country:'India',
+        image:'https://images.unsplash.com/photo-1602216056096-3b40cc0c9944?auto=format&fit=crop&w=900&q=80',
+        description: 'Backwaters, houseboats, and lush green landscapes.',
+        price: 25000,
+        category: 'india',
+
+    },
+     {
+    id: 2,
+    name: "Himachal Pradesh",
+    country: "India",
+    image:
+      "https://images.unsplash.com/photo-1626621341517-bbf3d9990a23?auto=format&fit=crop&w=900&q=80",
+    description: "Discover mountain villages, pine forests, and peaceful valleys.",
+    price: 22000,
+    category: "india",
+  },
+   {
+    id: 3,
+    name: "Ladakh",
+    country: "India",
+    image: "https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=900&q=80",
+    description: "Experience dramatic landscapes and high-altitude adventure.",
+    price: 35000,
+    category: "india",
+  },
+  {
+    id: 4,
+    name: "Andaman",
+    country: "India",
+    image: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=900&q=80",
+    description: "Enjoy clear waters, coral reefs, and quiet island beaches.",
+    price: 30000,
+    category: "india",
+  },
+  {
+    id: 5,
+    name: "Goa",
+    country: "India",
+    image: "https://images.unsplash.com/photo-1512343879784-a960bf40e7f2?auto=format&fit=crop&w=900&q=80",
+    description: "Combine golden beaches, coastal food, and vibrant local culture.",
+    price: 18000,
+    category: "india",
+  },
+];
+export const internationalDestinations =[
+     {
+    id: 6,
+    name: "Kenya",
+    country: "Kenya",
+    image:
+      "https://images.unsplash.com/photo-1516426122078-c23e76319801?auto=format&fit=crop&w=900&q=80",
+    description: "Meet the wild through unforgettable safari experiences.",
+    price: 95000,
+    category: "international",
+  },
+  {
+    id: 7,
+    name: "Vietnam",
+    country: "Vietnam",
+    image:
+      "https://images.unsplash.com/photo-1528127269322-539801943592?auto=format&fit=crop&w=900&q=80",
+    description: "Explore ancient cities, dramatic coastlines, and local flavours.",
+    price: 65000,
+    category: "international",
+  },
+  {
+    id: 8,
+    name: "Tanzania",
+    country: "Tanzania",
+    image: "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=80",
+    description: "Discover the Serengeti, vast savannahs, and rich wildlife.",
+    price: 110000,
+    category: "international",
+  },
+  {
+    id: 9,
+    name: "Iceland",
+    country: "Iceland",
+    image: "https://images.unsplash.com/photo-1530789253388-582c481c54b0?auto=format&fit=crop&w=900&q=80",
+    description: "See waterfalls, glaciers, volcanic landscapes, and northern skies.",
+    price: 145000,
+    category: "international",
+  },
+  {
+    id: 10,
+    name: "Sri Lanka",
+    country: "Sri Lanka",
+    image: "https://images.unsplash.com/photo-1588598198321-9735fd524b0b?auto=format&fit=crop&w=900&q=80",
+    description: "Travel through tea country, ancient cities, and tropical beaches.",
+    price: 55000,
+    category: "international",
+  },
+];
