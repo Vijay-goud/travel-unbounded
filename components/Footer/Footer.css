@@ -1,0 +1,9 @@
+.footer{
+    background-color: var(--color-surface-alt);
+    color: var(--color-text-muted);
+    padding: 20px;
+    font-size: 0.6rem;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    
+}
